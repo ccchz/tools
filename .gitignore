@@ -6,3 +6,6 @@ debug/*
 *.exe
 *~
 *.bak
+*.dll
+*.lib
+*.a
