@@ -1,0 +1,8 @@
+VS/.vs/*
+build/
+bin/
+debug/
+debug/*
+*.exe
+*~
+*.bak
