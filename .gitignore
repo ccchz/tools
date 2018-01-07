@@ -1,6 +1,6 @@
 VS/.vs/*
-*/Debug/*
-*/Release/*
+*Debug*
+*x64/*
 .vs/*
 *.vs*
 build/
