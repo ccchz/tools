@@ -57,9 +57,6 @@
     <Image Include="stob.ico">
       <Filter>资源文件</Filter>
     </Image>
-    <Image Include="wnd322.ico">
-      <Filter>资源文件</Filter>
-    </Image>
     <Image Include="wnd16.ico">
       <Filter>资源文件</Filter>
     </Image>

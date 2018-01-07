@@ -1,5 +1,8 @@
 VS/.vs/*
+*/Debug/*
+*/Release/*
 .vs/*
+*.vs*
 build/
 bin/
 debug/
@@ -10,3 +13,4 @@ debug/*
 *.dll
 *.lib
 *.a
+*.log
